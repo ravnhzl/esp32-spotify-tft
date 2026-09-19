@@ -22,9 +22,17 @@ ILI9341 SPI TFT
 
 ## Pictures
 
+### Showcase
+
 <p align="center">
   <img src="images/ESP ShowCase (2).jpeg" width="300">
   <img src="images/ESP32 Devkit V1.png" width="300">
+</p>
+
+### Wiring Diagram
+
+<p align="center">
+  <img src="images/wiring diagram 1.png" width="300">
 </p>
 
 ## Features
