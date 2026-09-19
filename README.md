@@ -23,8 +23,8 @@ ILI9341 SPI TFT
 ## Pictures
 
 <p align="center">
-  <img src="images/ESP Showcase (2).jpg" width="300">
-  <img src="images/ESP32 Devkit V1.jpg" width="300">
+  <img src="images/ESP ShowCase (2).jpeg" width="300">
+  <img src="images/ESP32 Devkit V1.png" width="300">
 </p>
 
 ## Features
