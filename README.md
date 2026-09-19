@@ -32,7 +32,7 @@ ILI9341 SPI TFT
 ### Wiring Diagram
 
 <p align="center">
-  <img src="images/wiring diagram 1.png" width="300">
+  <img src="images/wiring diagram 1.png" width="700">
 </p>
 
 ## Features
