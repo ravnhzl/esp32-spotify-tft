@@ -20,6 +20,13 @@ ESP32
 ILI9341 SPI TFT
 ```
 
+## Pictures
+
+<p align="center">
+  <img src="images/ESP Showcase (2).jpg" width="300">
+  <img src="images/ESP32 Devkit V1.jpg" width="300">
+</p>
+
 ## Features
 
 - Song title, artist, and album
